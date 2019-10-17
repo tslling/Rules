@@ -441,6 +441,7 @@ Rule:
 - DOMAIN-SUFFIX,msedge.net,Proxy
 - DOMAIN-SUFFIX,myfontastic.com,Proxy
 - DOMAIN-SUFFIX,name.com,Proxy
+- DOMAIN,news.ycombinator.com,Proxy
 - DOMAIN-SUFFIX,nextmedia.com,Proxy
 - DOMAIN-SUFFIX,nsstatic.net,Proxy
 - DOMAIN-SUFFIX,nssurge.com,Proxy
