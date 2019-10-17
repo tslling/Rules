@@ -415,6 +415,7 @@ Rule:
 - DOMAIN-SUFFIX,jshint.com,Proxy
 - DOMAIN-SUFFIX,jtvnw.net,Proxy
 - DOMAIN-SUFFIX,justgetflux.com,Proxy
+- DOMAIN,k8s.io,Proxy
 - DOMAIN-SUFFIX,kat.cr,Proxy
 - DOMAIN-SUFFIX,klip.me,Proxy
 - DOMAIN-SUFFIX,libsyn.com,Proxy
